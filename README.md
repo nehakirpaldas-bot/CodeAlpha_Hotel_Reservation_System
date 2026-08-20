@@ -70,26 +70,6 @@ Polymorphism
 
 Methods can behave differently depending on the object or implementation being used.
 
-📂 Project Structure
-
-HotelReservationSystem/
-│
-├── src/
-│   ├── Main.java
-│   ├── Room.java
-│   ├── Guest.java
-│   ├── Reservation.java
-│   ├── HotelService.java
-│   ├── FileManager.java
-│   └── PaymentService.java
-│
-├── data/
-│   ├── rooms.csv
-│   └── reservations.csv
-│
-└── README.md
-
-
 🏨 Room Types
 
 The system supports different room categories, such as:
